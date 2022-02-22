@@ -1,0 +1,5 @@
+transformers
+termcolor
+umap-learn
+hdbscan
+contractions
